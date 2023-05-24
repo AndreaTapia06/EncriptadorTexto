@@ -1,0 +1,3 @@
+# EncriptadorTexto
+
+En construccion 
