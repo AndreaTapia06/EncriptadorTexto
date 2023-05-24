@@ -1,4 +1,4 @@
-*{
+/**{
     margin: 0;
     padding: 0;
 }
@@ -184,7 +184,7 @@ color: #FFFFFF;
     top: 283px;
 }
 /*Responsive design*/
-@media(max-width:57.5em){
+/*@media(max-width:57.5em){
     .container{
         display: flex;
         flex-direction: row;
